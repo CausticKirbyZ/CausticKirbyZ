@@ -1,5 +1,5 @@
-## Hacker, Parent, Infosec Dev
-I write tools to help myself better understand how things work (any hopefully make my life easier).
+## wannabe Hacker/Infosec Dev
+I write tools to help myself better understand how things work (any hopefully make life easier).
 
 
 ## Git Stats
