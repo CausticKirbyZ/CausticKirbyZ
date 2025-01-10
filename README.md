@@ -1,4 +1,4 @@
-## wannabe Hacker/Infosec Dev
+## Hacker/Infosec Dev
 I write tools to help myself better understand how things work (any hopefully make life easier).
 
 
